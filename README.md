@@ -1,1 +1,1 @@
-# .github
+PROFILE CONFIG
