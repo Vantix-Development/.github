@@ -6,7 +6,7 @@ FiveM Development
 
 * 🌍  I'm based in Ohio
 * ✉️  You can contact me at [vantixdevelopment@gmail.com](mailto:vantixdevelopment@gmail.com)
-* 🚀  I'm currently working on [Vantix Urbex](http://vantixurbex.shop)
+* 🚀  I'm currently working on [Vantix Urbex](http://vantixurbex.shop) & [Vantix Roleplay](http://vantixurbex.shop](https://discord.gg/tCDVWgy2pU))
 * 🧠  I'm currently learning More .js and .lua
 * 👥  I'm looking to collaborate on FiveM
 
@@ -17,4 +17,3 @@ FiveM Development
 <a href="https://www.github.com/AstroMods" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/AstroMods?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/mrvantix" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/mrvantix?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
-### Badges
